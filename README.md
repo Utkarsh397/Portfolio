@@ -50,6 +50,5 @@ The portfolio includes the following sections:
 | Scramble button | Random cube state |
 | Solve button | Automatically solve cube |
 
----
 
 
