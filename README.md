@@ -53,6 +53,3 @@ The portfolio includes the following sections:
 ---
 
 
-
-```bash
-
