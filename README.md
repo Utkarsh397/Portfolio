@@ -52,9 +52,7 @@ The portfolio includes the following sections:
 
 ---
 
-## 🚀 Getting Started
-If you use this project, please give credit.
-Clone the repository:
+
 
 ```bash
 
